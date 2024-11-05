@@ -6,9 +6,9 @@ const App = () => {
   return (
     <div>
       <h1>Introvert</h1>
-      <Header text="Header Props" />
-      <Home text="Home Props" />
-      <Footer text="Footer Props" />
+      <Header text="Header" />
+      <Home text="Home" />
+      <Footer text="Footer" />
     </div>
   );
 };
